@@ -4,8 +4,10 @@
 
 
 
-Lưu ý : nếu chạy file exe bị lỗi resize màn hình 
+Lưu ý : nếu chạy file exe bị lỗi resize màn hình
+
 c1. resize lại màn hình console 200 x 50
+
 c2. thì phải mở dev C và Compile tab Quanlyvattu.cpp lại và chạy
 
 
