@@ -1,7 +1,14 @@
 # CTDL-Materials-Management
 Đồ án quản lý vật tư th Lưu Nguyễn Kỳ Thư
 Đề tài sử dụng đồ hoạ console của C++ để thực hiện
-Lưu ý : nếu chạy file exe bị lỗi resize màn hình thì phải mở dev C và Compile lại và chạy
+
+
+
+Lưu ý : nếu chạy file exe bị lỗi resize màn hình 
+c1. resize lại màn hình console 200 x 50
+c2. thì phải mở dev C và Compile tab Quanlyvattu.cpp lại và chạy
+
+
 
 Đề tài quản lý vật tư 
 đề bài chi tiết
